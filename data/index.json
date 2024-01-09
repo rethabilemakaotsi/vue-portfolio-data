@@ -1,13 +1,18 @@
 {
-    "jobTitle": [
+    "home": [
         {
-            "title": "Aspiring web developer"
+            
+            "description": " hello, I'M Rethabile Makotsi ",
+            "title": "Aspiring web developer",
+            "image url": "https://docs.google.com/document/d/1QRrqxTphAWWF6UDQa8oivuiX_dCjIbrn7-oWY6b8TG4/edit?usp=drive_link"
+            
         }
            
     ],
     "about": [
-        "I graduated at Tshwane University of Technology in 2014 as a Software Developer and I've gained knowledge in data science, database, programming, data analysis, project management and many more.",
-        "I am currently employed as a coding lecturer at Life Choices and also run my own business, JT Devs. As a part-time YouTuber, I teach people different programming languages."
+        "Greetings, I'm Rethabile Makaotsi, a dynamic Full-stack Development enthusiast currently honing my skills at Life Choices. My passion lies in the art of transforming visionary ideas into robust, functional code. I thrive on the inherent challenges that coding presents, viewing each obstacle as an opportunity for growth.",
+        "Fueling my journey is an unwavering commitment to continuous learning and a fervent desire to make meaningful contributions to impactful projects within the tech industry. As you navigate through my portfolio, you'll witness not only my technical proficiency but also a dedication to delivering high-quality solutions in both front-end and back-end development.",
+        "I extend my gratitude for taking the time to explore my portfolio. Whether you're here to connect, collaborate, or simply share ideas, feel free to reach out. I'm always eager to engage in exciting projects and discussions. Let's embark on this journey together, where innovation meets functionality."
     ],
     "education": [
         {
