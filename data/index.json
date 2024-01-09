@@ -17,60 +17,21 @@
     "education": [
         {
             "id": 1,
-            "year": 2020,
-            "description": "I got my certificates on Data science",
-            "place": "Data Camp",
-            "type": "certificate",
-            "certificate": "https://drive.google.com/file/d/1-f1yRukcXLo0e8ip3Cb7Z3D29Er9ENn_/view"
+            "year": 2018,
+            "description": "I completed my matriculation",
+            "place": "Chris Hani Art And Culture High school",
+            "type": "Matric"
+         
         },
         {
             "id": 2,
-            "year": 2020,
-            "description": "I got my certificates on Advanced to Python",
-            "place": "Data Camp",
-            "type": "certificate",
-            "certificate": "https://drive.google.com/file/d/1qd2xS-HvI4c_C4vf1-Z1R_bPxzF7SZ-t/view"
-        },
-        {
-            "id": 3,
-            "year": 2020,
-            "description": "I got my certificates on Intro to Python",
-            "place": "Data Camp",
-            "type": "certificate",
-            "certificate": "https://drive.google.com/file/d/1-_DBHhxHKGS3Gqsy5eJ-_16WJN50OfXX/view"
-        },
-        {
-            "id": 4,
-            "year": 2015,
-            "description": "I got my certificate on Intro to Android Developer",
-            "place": "Study Jams",
-            "type": "certificate",
-            "certificate": "https://drive.google.com/file/d/102891ip_JFl_NEwW942zbvbkG7SXHx0G/view"
-        },
-        {
-            "id": 5,
-            "year": 2014,
-            "description": "I got my diploma on Software Engineering",
-            "place": "Tshwane University of Technology",
-            "type": "Diploma",
-            "certificate": "https://drive.google.com/file/d/10JQilglK4RoVToj_h739oYKUwH5vqTDp/view"
-        },
-        {
-            "id": 6,
-            "year": 2005,
-            "description": "Completed my course on PC Engineering",
-            "place": "Havatech",
-            "type": "Certificate",
-            "certificate": "https://drive.google.com/file/d/10MNxwM9wsyLl3pGVv9dBblD57-gSnjLR/view"
-        },
-        {
-            "id": 7,
-            "year": 2000,
-            "description": "Grade 12",
-            "place": "",
-            "type": "Certificate",
-            "certificate": ""
+            "year": 2019,
+            "description": "I got my certificates on computer literature",
+            "place": "Social Development",
+            "type": "certificate"
+           
         }
+       
     ],
     "skills": [
         {
