@@ -1,21 +1,9 @@
 {
     "jobTitle": [
         {
-            "title": "a software developer",
-            "color": "rgb(57, 153, 0)"
-        },
-        {
-            "title": "a youTuber",
-            "color": "rgb(157, 100, 0)"
-        },
-        {
-            "title": "a founder and CEO at JT Devs",
-            "color": "rgb(153, 76, 150)"
-        },
-        {
-            "title": "an IT Lecturer",
-            "color": "rgb(0, 172, 230)"
-        }    
+            "title": "Aspiring web developer"
+        }
+           
     ],
     "about": [
         "I graduated at Tshwane University of Technology in 2014 as a Software Developer and I've gained knowledge in data science, database, programming, data analysis, project management and many more.",
