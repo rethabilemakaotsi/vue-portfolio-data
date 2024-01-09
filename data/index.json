@@ -35,20 +35,20 @@
     ],
     "skills": [
         {
-            "title": "Web Development",
-            "experience": "I have a decade of experience in web development using the following technologies: HTML, CSS, Bootstrap, JQuery, and Javascript. I am still building applications using the mentioned technologies."
+            "title": "HTML",
+            "icon": "https://drive.google.com/file/d/1XDQWayz6yNKIoI9EbSy4_INCvIuWYJhB/view?usp=drive_link"
         },
         {
-            "title": "Database",
-            "experience": "I've have been working on different types of databases since 2009, both SQL-structured and document-based. I enjoy working on a database; for me, that is where the magic happens. A well-structured database is the result of data integrity and many more."
+            "title": "Bootstrap",
+            "icon": "https://drive.google.com/file/d/1M4Wi1TRKrKEWlIOSzSxReGMm2r13xjRd/view?usp=drive_link"
         },
         {
-            "title": "API",
-            "experience": "In case we want to secure, identify, and authorize access to a user on a specific resource, we need to have an API, which is a glue between the front end and back end. We can set up a lot of features or logic, such as middleware, database configuration, JSON web tokens, and many more. For the past 7 years, I have been working on APIs using Django and ExpressJS."
+            "title": "Javascript",
+            "icon": "https://drive.google.com/file/d/16mfS_VoqK5nWiIikaBGiCOoPrENkgqoo/view?usp=drive_link"
         },
         {
-            "title": "Programming",
-            "experience": "When it comes to programming, I have a lot to say, but I will be brief. Programming and database management are the skills that will stay with me forever, even though it is my first time to come across another programming language. It is crazy how I knew it syntax before starting coding. I have a decade of working experience on the following programming languages: C++, Python, Delphi, Javascript, VB.Net, C#, and Java. I still want to learn more about them."
+            "title": "Vue.js",
+            "icon": "https://drive.google.com/file/d/11glV-SBOmZ_Wam9njWMjP5nU_tMjPRXz/view?usp=drive_link"
         }
     ],
     "testimonials": [
