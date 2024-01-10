@@ -1,36 +1,16 @@
 {
-    "home": [
-        {
-            
-            "description": " hello, I'M Rethabile Makotsi ",
-            "title": "Aspiring web developer",
-            "image url": "https://docs.google.com/document/d/1QRrqxTphAWWF6UDQa8oivuiX_dCjIbrn7-oWY6b8TG4/edit?usp=drive_link"
-            
-        }
-           
-    ],
-    "about": [
-        "Greetings, I'm Rethabile Makaotsi, a dynamic Full-stack Development enthusiast currently honing my skills at Life Choices. My passion lies in the art of transforming visionary ideas into robust, functional code. I thrive on the inherent challenges that coding presents, viewing each obstacle as an opportunity for growth.",
-        "Fueling my journey is an unwavering commitment to continuous learning and a fervent desire to make meaningful contributions to impactful projects within the tech industry. As you navigate through my portfolio, you'll witness not only my technical proficiency but also a dedication to delivering high-quality solutions in both front-end and back-end development.",
-        "I extend my gratitude for taking the time to explore my portfolio. Whether you're here to connect, collaborate, or simply share ideas, feel free to reach out. I'm always eager to engage in exciting projects and discussions. Let's embark on this journey together, where innovation meets functionality."
-    ],
+    
     "education": [
         {
             "id": 1,
-            "year": 2018,
-            "description": "I completed my matriculation",
-            "place": "Chris Hani Art And Culture High school",
-            "type": "Matric"
+            "School Name": "Chris Hani Art And Culture High school",
+            "Qualification": "Grade 12",
+            "year": 2018
+            
+            
          
-        },
-        {
-            "id": 2,
-            "year": 2019,
-            "description": "I got my certificates on computer literature",
-            "place": "Social Development",
-            "type": "certificate"
-           
         }
+        
        
     ],
     "skills": [
@@ -56,62 +36,96 @@
             "name": "Aza",
             "surname": "Ndoro",
             "quotes": "As someone who cherishes meaningful connections, having Rethabile as a friend is a blessing—her quiet strength and understanding speak volumes",
-            "profile": "https://drive.google.com/file/d/1acrQxq7cfBx7SGH-QhmfaYoc7I_FKXEp/view?usp=drive_link"
+            "profile": "https://i.postimg.cc/ZKxc8frV/AZA-removebg-preview.png"
         },
         {
             "name": "Anathi",
             "surname": "Josefu",
             "quotes": "Rethabile's appreciation for order is evident in every aspect of her life, from meticulously organized study materials to a well-structured approach to tasks, reflecting her commitment to efficiency and clarity.",
-            "profile": "https://drive.google.com/file/d/15OGKM1sq4i-2mmNjLh-Q3Si6P-1rKvsT/view?usp=drive_link"
+            "profile": "https://i.postimg.cc/XYQ6zk0g/DSC-0316-removebg-preview.png"
         },
         {
             "name": "Sivelele",
             "surname": "Nkamane",
             "quotes": "Rethabile's quiet diligence in our class is truly admirable; she approaches her studies with a focused determination that sets a positive example for everyone around her.",
-            "profile": "https://drive.google.com/file/d/1fQi47Ymh-MS-eJCVR_CnpFSfacb429Dg/view?usp=drive_link"
+            "profile": "https://i.postimg.cc/4xvrhbdg/silel-removebg-preview.png"
         },
         {
-            "name": "onika",
+            "name": "Onika",
             "surname": "Seleku",
-            "quotes": "Rethabile's quiet diligence in our class is truly admirable; she approaches her studies with a focused determination that sets a positive example for everyone around her.",
-            "profile": "https://drive.google.com/file/d/1Wc55z866cxxfoGjMCvZH5aUw9SqPA8Mf/view?usp=drive_link"
-        }
+            "quotes": " Rethabile is an exceptional classmate, always ready and willing to lend a helping hand to others. Her genuine willingness to assist her peers creates a positive and collaborative learning environment for everyone around her.",
+            "profile": "https://i.postimg.cc/XYcY756Z/port.png"
+        },
+     {
+        "name": "Sisipho",
+        "surname": "Mafrika",
+        "quotes": "Rethabile is a stellar schoolmate, seamlessly balancing academic prowess with a friendly and approachable demeanor, making her a positive presence in our school community",
+        "profile": "https://i.postimg.cc/fWcXpB8X/IMG-7811-1-removebg-preview.png"
+    },
+    {
+      
+        "name": "Sivuyisiwe",
+        "surname": "Peter",
+        "quotes": " Rethabile, my ex-classmate from Codetelligence and now schoolmate, is a constant source of joy. Her infectious happiness brings a vibrant energy to our academic environment.",
+        "profile": "https://i.postimg.cc/FKD4qt2z/DSC-0283-removebg-preview.png"  
+    }
     ],
     "projects":[
         {
-            "name": "To-do List",
-            "description": "I built this application using HTML 5, CSS, and Javascript.",
-            "image": "https://i.postimg.cc/tTF7RMr1/todoList.png",
-            "gitHub": "https://github.com/codjoelmayer/todoApp_js.git",
-            "netlify": "https://joel-todo-list.netlify.app/"
+            "name": "BMI calculator",
+            "description": "This is BMI calculator i build using HTMl , CSS and a lit bit of Jvascript.",
+            "image": "https://i.postimg.cc/cCVW1xJ4/Screenshot-2024-01-10-110900.png",
+            "gitHub": "https://github.com/rethabilemakaotsi/BMI-calculator.git",
+            "vercel": "https://bmi-calculator-chi-jade.vercel.app/"
         },
         {
             "name": "Calculator",
-            "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
-            "image": "https://i.postimg.cc/vH8q91JB/reg-Exp-Calculator.png",
-            "gitHub": "https://github.com/codjoelmayer/regExpCalculator.git",
-            "netlify": "https://regexpcalculator.netlify.app/"
+            "description": "i build this using Javascipt for functionality and HTML,CSS for structure and styling",
+            "image": "https://i.postimg.cc/v8vSQHcP/Screenshot-2024-01-10-111029.png",
+            "gitHub": "https://github.com/rethabilemakaotsi/Calculator.git",
+            "vercel": "https://calculator-seven-fawn.vercel.app/"
         },
         {
-            "name": "Message believers Circle",
-            "description": "MBC is an application I built for my client for selling products online. I make use of Vue3 JS, MySQL, APIs, and JSON Web Tokens.",
-            "image": "https://i.postimg.cc/k4tqF1Ln/message-Believer-Circle.png",
-            "gitHub": "https://github.com/codjoelmayer/messageBelieversCircle.git",
-            "netlify": "https://messagebelieverscircle-3491d.web.app/"
+            "name": "E-Commerce",
+            "description": "This was my Javscript-end module i build it using Javascript ,css,html and bootstrap.",
+            "image": "https://i.postimg.cc/v8vSQHcP/Screenshot-2024-01-10-111029.png",
+            "gitHub": "https://github.com/rethabilemakaotsi/javascriptendmodule.git",
+            "vercel": "https://javascriptendmodule.vercel.app/"
         },
         {
-            "name": "JT Laptop",
-            "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
-            "image": "https://i.postimg.cc/g2YVCx3R/JTLaptop.png",
-            "gitHub": "https://github.com/codjoelmayer/JTLaptops.git",
-            "netlify": "https://jtlaptops.netlify.app/"
+            "name": "To-Do-List",
+            "description": "This was made using javascript",
+            "image": "https://i.postimg.cc/3RGCbhqQ/Screenshot-2024-01-10-120345.png",
+            "gitHub": "https://github.com/rethabilemakaotsi/to-do-list.git",
+            "vercel": "https://to-do-list-tau-rouge.vercel.app/"
         },
         {
-            "name": "JS Portfolio",
-            "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
-            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
-            "gitHub": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git",
-            "netlify": "https://joeljsportfolio.netlify.app/"
+            "name": "Temperature Converter",
+            "description": "build this using html css and javscript",
+            "image": "https://i.postimg.cc/PqrRcCbs/Screenshot-2024-01-10-115736.png",
+            "gitHub": "https://github.com/rethabilemakaotsi/temperature.git",
+            "vercel": "https://temperature-blush.vercel.app/"
+        },
+        {
+            "name": "Keyboard",
+            "description": "This was my first project using html and css",
+            "image": "https://i.postimg.cc/dtVZhv9Q/Screenshot-2024-01-10-115913.png",
+            "gitHub": "https://github.com/rethabilemakaotsi/keyboard.git",
+            "vercel": "https://keyboard-tau-two.vercel.app/" 
         }
     ]
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
