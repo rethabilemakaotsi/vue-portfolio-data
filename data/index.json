@@ -7,8 +7,12 @@
             "Qualification": "Grade 12",
             "year": 2018
             
-            
-         
+        },
+        {
+            "id": 2,
+            "School Name": "Codetelligence NPC",
+            "Qualification": "Software development",
+            "year": 2023
         }
         
        
@@ -33,40 +37,34 @@
     ],
     "testimonials": [
         {
-            "name": "Aza",
-            "surname": "Ndoro",
-            "quotes": "As someone who cherishes meaningful connections, having Rethabile as a friend is a blessing—her quiet strength and understanding speak volumes",
+            "name": "Aza Ndoro",
+            "description": "As someone who cherishes meaningful connections, having Rethabile as a friend is a blessing—her quiet strength and understanding speak volumes",
             "profile": "https://i.postimg.cc/ZKxc8frV/AZA-removebg-preview.png"
         },
         {
-            "name": "Anathi",
-            "surname": "Josefu",
-            "quotes": "Rethabile's appreciation for order is evident in every aspect of her life, from meticulously organized study materials to a well-structured approach to tasks, reflecting her commitment to efficiency and clarity.",
+            "name": "Anathi Josefu",
+            "description": "Rethabile's appreciation for order is evident in every aspect of her life, from meticulously organized study materials to a well-structured approach to tasks, reflecting her commitment to efficiency and clarity.",
             "profile": "https://i.postimg.cc/XYQ6zk0g/DSC-0316-removebg-preview.png"
         },
         {
-            "name": "Sivelele",
-            "surname": "Nkamane",
-            "quotes": "Rethabile's quiet diligence in our class is truly admirable; she approaches her studies with a focused determination that sets a positive example for everyone around her.",
+            "name": "Sivelele Nkamene",
+            "description": "Rethabile's quiet diligence in our class is truly admirable; she approaches her studies with a focused determination that sets a positive example for everyone around her.",
             "profile": "https://i.postimg.cc/4xvrhbdg/silel-removebg-preview.png"
         },
         {
-            "name": "Onika",
-            "surname": "Seleku",
-            "quotes": " Rethabile is an exceptional classmate, always ready and willing to lend a helping hand to others. Her genuine willingness to assist her peers creates a positive and collaborative learning environment for everyone around her.",
+            "name": "Onika Sileku",
+            "description": " Rethabile is an exceptional classmate, always ready and willing to lend a helping hand to others. Her genuine willingness to assist her peers creates a positive and collaborative learning environment for everyone around her.",
             "profile": "https://i.postimg.cc/XYcY756Z/port.png"
         },
      {
-        "name": "Sisipho",
-        "surname": "Mafrika",
-        "quotes": "Rethabile is a stellar schoolmate, seamlessly balancing academic prowess with a friendly and approachable demeanor, making her a positive presence in our school community",
+        "name": "Sisipho Mafrica",
+        "description": "Rethabile is a stellar schoolmate, seamlessly balancing academic prowess with a friendly and approachable demeanor, making her a positive presence in our school community",
         "profile": "https://i.postimg.cc/fWcXpB8X/IMG-7811-1-removebg-preview.png"
     },
     {
       
-        "name": "Sivuyisiwe",
-        "surname": "Peter",
-        "quotes": " Rethabile, my ex-classmate from Codetelligence and now schoolmate, is a constant source of joy. Her infectious happiness brings a vibrant energy to our academic environment.",
+        "name": "Sivuyisiwe Peter",
+        "description": " Rethabile, my ex-classmate from Codetelligence and now schoolmate, is a constant source of joy. Her infectious happiness brings a vibrant energy to our academic environment.",
         "profile": "https://i.postimg.cc/FKD4qt2z/DSC-0283-removebg-preview.png"  
     }
     ],
