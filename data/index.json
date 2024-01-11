@@ -6,7 +6,7 @@
             "School Name": "Chris Hani Art And Culture High school",
             "Qualification": "Grade 12",
             "year": 2018,
-            "image": "https://i.postimg.cc/jCYJDhB7/cap.png"
+            "image":"https://i.postimg.cc/FFq9jZGM/cap-removebg-preview.png"
             
         },
         {
@@ -14,14 +14,14 @@
             "School Name": "Codetelligence NPC",
             "Qualification": "Software development",
             "year": "Jan-july 2023",
-            "image":"https://i.postimg.cc/jCYJDhB7/cap.png"
+            "image":"https://i.postimg.cc/FFq9jZGM/cap-removebg-preview.png"
         },
         {
             "id": 3,
             "School Name": "Life Choices Academy",
             "Qualification": "Full-stake Development",
             "year": "Present",
-            "image":"https://i.postimg.cc/jCYJDhB7/cap.png"  
+            "image":"https://i.postimg.cc/FFq9jZGM/cap-removebg-preview.png"  
         }
         
        
@@ -29,7 +29,7 @@
     "skills": [
         {
             "title": "HTML",
-            "icon": "https://drive.google.com/file/d/1XDQWayz6yNKIoI9EbSy4_INCvIuWYJhB/view?usp=drive_link"
+            "icon": ""
         },
         {
             "title": "Bootstrap",
