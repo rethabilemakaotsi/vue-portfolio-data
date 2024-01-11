@@ -80,21 +80,21 @@
        
         {
             "name": "Calculator",
-            "description": "i build this using Javascipt for functionality and HTML,CSS for structure and styling",
+            "description": "I crafted this application, leveraging JavaScript for functionality, and HTML/CSS for structuring and styling.",
             "image": "https://i.postimg.cc/v8vSQHcP/Screenshot-2024-01-10-111029.png",
             "gitHub": "https://github.com/rethabilemakaotsi/Calculator.git",
             "vercel": "https://calculator-seven-fawn.vercel.app/"
         },
         {
             "name": "E-Commerce",
-            "description": "This was my Javscript-end module i build it using Javascript ,css,html and bootstrap.",
+            "description": "This module represents my proficiency in JavaScript, as I constructed it using a blend of JavaScript, CSS, HTML, and Bootstrap for a robust and visually appealing implementation.",
             "image": "https://i.postimg.cc/Mppc1Bcg/Screenshot-2024-01-10-111344.png",
             "gitHub": "https://github.com/rethabilemakaotsi/javascriptendmodule.git",
             "vercel": "https://javascriptendmodule.vercel.app/"
         },
         {
             "name": "Keyboard",
-            "description": "This was my first project using html and css",
+            "description": "This marks my inaugural project in the realm of web development, employing HTML and CSS for its creation.",
             "image": "https://i.postimg.cc/dtVZhv9Q/Screenshot-2024-01-10-115913.png",
             "gitHub": "https://github.com/rethabilemakaotsi/keyboard.git",
             "vercel": "https://keyboard-tau-two.vercel.app/" 
@@ -102,21 +102,22 @@
         
         {
             "name": "To-Do-List",
-            "description": "This was made using javascript",
+            "description": "This creation is powered by JavaScript, showcasing its pivotal role in bringing this project to life.",
             "image": "https://i.postimg.cc/3RGCbhqQ/Screenshot-2024-01-10-120345.png",
             "gitHub": "https://github.com/rethabilemakaotsi/to-do-list.git",
             "vercel": "https://to-do-list-tau-rouge.vercel.app/"
         },
         {
             "name": "Temperature Converter",
-            "description": "build this using html css and javscript",
+            "description": "I developed this utilizing a combination of HTML, CSS, and JavaScript to bring the project to fruition.",
             "image": "https://i.postimg.cc/PqrRcCbs/Screenshot-2024-01-10-115736.png",
             "gitHub": "https://github.com/rethabilemakaotsi/temperature.git",
             "vercel": "https://temperature-blush.vercel.app/"
         },
         {
             "name": "BMI calculator",
-            "description": "This is BMI calculator i build using HTMl , CSS and a lit bit of Jvascript.",
+            "description": 
+            "This is a BMI calculator that I crafted, harnessing the power of HTML, CSS, and a touch of JavaScript for functionality and interactivity.",
             "image": "https://i.postimg.cc/cCVW1xJ4/Screenshot-2024-01-10-110900.png",
             "gitHub": "https://github.com/rethabilemakaotsi/BMI-calculator.git",
             "vercel": "https://bmi-calculator-chi-jade.vercel.app/"
