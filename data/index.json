@@ -5,14 +5,23 @@
             "id": 1,
             "School Name": "Chris Hani Art And Culture High school",
             "Qualification": "Grade 12",
-            "year": 2018
+            "year": 2018,
+            "image": "https://i.postimg.cc/jCYJDhB7/cap.png"
             
         },
         {
             "id": 2,
             "School Name": "Codetelligence NPC",
             "Qualification": "Software development",
-            "year": 2023
+            "year": "Jan-july 2023",
+            "image":"https://i.postimg.cc/jCYJDhB7/cap.png"
+        },
+        {
+            "id": 3,
+            "School Name": "Life Choices Academy",
+            "Qualification": "Full-stake Development",
+            "year": "Present",
+            "image":"https://i.postimg.cc/jCYJDhB7/cap.png"  
         }
         
        
@@ -38,7 +47,7 @@
     "testimonials": [
         {
             "name": "Aza Ndoro",
-            "description": "As someone who cherishes meaningful connections, having Rethabile as a friend is a blessing—her quiet strength and understanding speak volumes",
+            "description": "As someone who cherishes meaningful connections, having Rethabile as a friend is a blessing—her quiet strength and understanding speak volumes.",
             "profile": "https://i.postimg.cc/ZKxc8frV/AZA-removebg-preview.png"
         },
         {
@@ -58,7 +67,7 @@
         },
      {
         "name": "Sisipho Mafrica",
-        "description": "Rethabile is a stellar schoolmate, seamlessly balancing academic prowess with a friendly and approachable demeanor, making her a positive presence in our school community",
+        "description": "Rethabile is a stellar schoolmate, seamlessly balancing academic prowess with a friendly and approachable demeanor, making her a positive presence in our school community.",
         "profile": "https://i.postimg.cc/fWcXpB8X/IMG-7811-1-removebg-preview.png"
     },
     {
