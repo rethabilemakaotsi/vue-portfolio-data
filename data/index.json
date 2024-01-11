@@ -6,21 +6,21 @@
             "School Name": "Chris Hani Art And Culture High school",
             "Qualification": "Grade 12",
             "year": 2018,
-            "image":"https://drive.google.com/uc?id=/1JxTdNhl3Gxq3XeTrzMrlI6905xl0bPbw/"
+            "image":"https://i.postimg.cc/jj5FZjV3/1212-removebg-preview.png"
         },
         {
             "id": 2,
             "School Name": "Codetelligence NPC",
             "Qualification": "Software development",
             "year": "Jan-july 2023",
-            "image":"https://i.postimg.cc/FFq9jZGM/cap-removebg-preview.png"
+            "image":"https://i.postimg.cc/jj5FZjV3/1212-removebg-preview.png"
         },
         {
             "id": 3,
             "School Name": "Life Choices Academy",
             "Qualification": "Full-stake Development",
             "year": "Present",
-            "image":"https://i.postimg.cc/FFq9jZGM/cap-removebg-preview.png"  
+            "image":"https://i.postimg.cc/jj5FZjV3/1212-removebg-preview.png"  
         }
         
        
@@ -28,19 +28,19 @@
     "skills": [
         {
             "title": "HTML",
-            "icon": ""
+            "icon": "https://i.postimg.cc/R0RDTnbH/icons8-html5-48-removebg-preview.png"
         },
         {
             "title": "Bootstrap",
-            "icon": "https://drive.google.com/file/d/1M4Wi1TRKrKEWlIOSzSxReGMm2r13xjRd/view?usp=drive_link"
+            "icon": "https://i.postimg.cc/BvGrp3Sd/icons8-bootstrap-48-1-removebg-preview.png"
         },
         {
             "title": "Javascript",
-            "icon": "https://drive.google.com/file/d/16mfS_VoqK5nWiIikaBGiCOoPrENkgqoo/view?usp=drive_link"
+            "icon": "https://i.postimg.cc/xC8typzw/icons8-javascript-48-removebg-preview.png"
         },
         {
             "title": "Vue.js",
-            "icon": "https://drive.google.com/file/d/11glV-SBOmZ_Wam9njWMjP5nU_tMjPRXz/view?usp=drive_link"
+            "icon": "https://i.postimg.cc/qBPHq2fJ/icons8-vue-js-48-removebg-preview.png"
         }
     ],
     "testimonials": [
