@@ -77,13 +77,7 @@
     }
     ],
     "projects":[
-        {
-            "name": "BMI calculator",
-            "description": "This is BMI calculator i build using HTMl , CSS and a lit bit of Jvascript.",
-            "image": "https://i.postimg.cc/cCVW1xJ4/Screenshot-2024-01-10-110900.png",
-            "gitHub": "https://github.com/rethabilemakaotsi/BMI-calculator.git",
-            "vercel": "https://bmi-calculator-chi-jade.vercel.app/"
-        },
+       
         {
             "name": "Calculator",
             "description": "i build this using Javascipt for functionality and HTML,CSS for structure and styling",
@@ -94,10 +88,18 @@
         {
             "name": "E-Commerce",
             "description": "This was my Javscript-end module i build it using Javascript ,css,html and bootstrap.",
-            "image": "https://i.postimg.cc/v8vSQHcP/Screenshot-2024-01-10-111029.png",
+            "image": "https://i.postimg.cc/Mppc1Bcg/Screenshot-2024-01-10-111344.png",
             "gitHub": "https://github.com/rethabilemakaotsi/javascriptendmodule.git",
             "vercel": "https://javascriptendmodule.vercel.app/"
         },
+        {
+            "name": "Keyboard",
+            "description": "This was my first project using html and css",
+            "image": "https://i.postimg.cc/dtVZhv9Q/Screenshot-2024-01-10-115913.png",
+            "gitHub": "https://github.com/rethabilemakaotsi/keyboard.git",
+            "vercel": "https://keyboard-tau-two.vercel.app/" 
+        },
+        
         {
             "name": "To-Do-List",
             "description": "This was made using javascript",
@@ -113,12 +115,13 @@
             "vercel": "https://temperature-blush.vercel.app/"
         },
         {
-            "name": "Keyboard",
-            "description": "This was my first project using html and css",
-            "image": "https://i.postimg.cc/dtVZhv9Q/Screenshot-2024-01-10-115913.png",
-            "gitHub": "https://github.com/rethabilemakaotsi/keyboard.git",
-            "vercel": "https://keyboard-tau-two.vercel.app/" 
+            "name": "BMI calculator",
+            "description": "This is BMI calculator i build using HTMl , CSS and a lit bit of Jvascript.",
+            "image": "https://i.postimg.cc/cCVW1xJ4/Screenshot-2024-01-10-110900.png",
+            "gitHub": "https://github.com/rethabilemakaotsi/BMI-calculator.git",
+            "vercel": "https://bmi-calculator-chi-jade.vercel.app/"
         }
+       
     ]
 }
 
